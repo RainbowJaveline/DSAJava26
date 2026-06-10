@@ -19,6 +19,7 @@ class Solution {
                 i++;
             }
         }
-        return String.valueOf(array);
+        //return String.valueOf(array);
+        return new String(array);
     }
 }
