@@ -5,15 +5,13 @@ class Solution {
         int j=array.length-1;
         String vowel = "aeiouAEIOU";
         while(i<j){
-            char c1 = array[i];
-            char c2 = array[j];
-            if(vowel.indexOf(c1)!=-1 && vowel.indexOf(c2)!=-1){
+            if(vowel.indexOf(array[i])!=-1 && vowel.indexOf(array[j])!=-1){
                 char temp = array[i];
                 array[i] = array[j];
                 array[j] = temp;
                 i++;
                 j--;
-            }else if(vowel.indexOf(c2)==-1){
+            }else if(vowel.indexOf(array[j])==-1){
                 j--;
             }else{
                 i++;
