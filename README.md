@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/RainbowJaveline/DSAJava26/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/RainbowJaveline/DSAJava26/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/RainbowJaveline/DSAJava26/tree/master/1678-goal-parser-interpretation) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/RainbowJaveline/DSAJava26/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RainbowJaveline/DSAJava26/tree/master/0001-two-sum) |
+## Counting
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/RainbowJaveline/DSAJava26/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
