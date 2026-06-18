@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RainbowJaveline/DSAJava26/tree/master/0001-two-sum) |
+| [0724-find-pivot-index](https://github.com/RainbowJaveline/DSAJava26/tree/master/0724-find-pivot-index) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/RainbowJaveline/DSAJava26/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1704-determine-if-string-halves-are-alike](https://github.com/RainbowJaveline/DSAJava26/tree/master/1704-determine-if-string-halves-are-alike) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/RainbowJaveline/DSAJava26/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
