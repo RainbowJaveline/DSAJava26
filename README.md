@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RainbowJaveline/DSAJava26/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/RainbowJaveline/DSAJava26/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/RainbowJaveline/DSAJava26/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RainbowJaveline/DSAJava26/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/RainbowJaveline/DSAJava26/tree/master/0443-string-compression) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RainbowJaveline/DSAJava26/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/RainbowJaveline/DSAJava26/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/RainbowJaveline/DSAJava26/tree/master/0724-find-pivot-index) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/RainbowJaveline/DSAJava26/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
