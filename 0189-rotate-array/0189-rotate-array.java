@@ -1,12 +1,13 @@
 class Solution {
     public void rotate(int[] nums, int k) {
+        int n = nums.length;
         k= k%nums.length;   
         //reverse array
-        reverse(nums , 0 , nums.length-1);
+        reverse(nums , 0 , n-1);
         //reverse from d
         reverse(nums,0,k-1);
         //again reverse from d
-        reverse(nums,k,nums.length-1);
+        reverse(nums,k,n-1);
     }
 
       public static void reverse(int[] arr,int i,int j){
