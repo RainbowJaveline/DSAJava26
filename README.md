@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RainbowJaveline/DSAJava26/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/RainbowJaveline/DSAJava26/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/RainbowJaveline/DSAJava26/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/RainbowJaveline/DSAJava26/tree/master/0217-contains-duplicate) |
@@ -43,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RainbowJaveline/DSAJava26/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/RainbowJaveline/DSAJava26/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RainbowJaveline/DSAJava26/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RainbowJaveline/DSAJava26/tree/master/0268-missing-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RainbowJaveline/DSAJava26/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RainbowJaveline/DSAJava26/tree/master/0169-majority-element) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/RainbowJaveline/DSAJava26/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Prefix Sum
 |  |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RainbowJaveline/DSAJava26/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RainbowJaveline/DSAJava26/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RainbowJaveline/DSAJava26/tree/master/0268-missing-number) |
 ## Sliding Window
@@ -80,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RainbowJaveline/DSAJava26/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/RainbowJaveline/DSAJava26/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RainbowJaveline/DSAJava26/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RainbowJaveline/DSAJava26/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
