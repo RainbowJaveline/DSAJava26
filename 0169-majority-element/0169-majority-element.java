@@ -12,6 +12,6 @@ class Solution {
             return ans;
         }
       }
-      return ans;
+      return -1;
     }
 }
