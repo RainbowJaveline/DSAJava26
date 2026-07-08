@@ -1,25 +1,56 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
-        int l = 0;
-        int start = 0;
         List<Integer> ans = new ArrayList<>();
-        HashMap<Character , Integer> needed = new HashMap<>();
-        HashMap<Character , Integer> formed = new HashMap<>();
-        for(int i = 0 ; i<p.length();i++){
-            needed.put(p.charAt(i) , needed.getOrDefault(p.charAt(i),0)+1);
+
+        int[] needed = new int[26];
+        int[] window = new int[26];
+
+        for (char c : p.toCharArray()) {
+            needed[c - 'a']++;
         }
-        for(int h = 0 ; h < s.length() ; h++){
-            formed.put(s.charAt(h), formed.getOrDefault(s.charAt(h),0)+1);
-            if(h-l+1 == p.length()){
-                if(formed.equals(needed)) ans.add(l);
-                formed.put(s.charAt(l) , formed.get(s.charAt(l))-1);
-                if(formed.get(s.charAt(l)) == 0 ){
-                    formed.remove(s.charAt(l));
+
+        int required = 0;
+
+        // Number of characters whose frequency matters
+        for (int i = 0; i < 26; i++) {
+            if (needed[i] > 0) {
+                required++;
+            }
+        }
+
+        int formed = 0;
+        int l = 0;
+
+        for (int h = 0; h < s.length(); h++) {
+
+            char c = s.charAt(h);
+            window[c - 'a']++;
+
+            // This character just became satisfied
+            if (window[c - 'a'] == needed[c - 'a']) {
+                formed++;
+            }
+
+            // Keep window size equal to p.length()
+            if (h - l + 1 > p.length()) {
+
+                char left = s.charAt(l);
+
+                // Before removing, check if this character was satisfying
+                if (window[left - 'a'] == needed[left - 'a']) {
+                    formed--;
                 }
+
+                window[left - 'a']--;
                 l++;
             }
 
+            // All required characters are satisfied
+            if (formed == required) {
+                ans.add(l);
+            }
         }
+
         return ans;
     }
 }
