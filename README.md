@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/RainbowJaveline/DSAJava26/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/RainbowJaveline/DSAJava26/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/RainbowJaveline/DSAJava26/tree/master/0724-find-pivot-index) |
+| [0918-maximum-sum-circular-subarray](https://github.com/RainbowJaveline/DSAJava26/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/RainbowJaveline/DSAJava26/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/RainbowJaveline/DSAJava26/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RainbowJaveline/DSAJava26/tree/master/0169-majority-element) |
+| [0918-maximum-sum-circular-subarray](https://github.com/RainbowJaveline/DSAJava26/tree/master/0918-maximum-sum-circular-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -126,6 +128,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/RainbowJaveline/DSAJava26/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/RainbowJaveline/DSAJava26/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RainbowJaveline/DSAJava26/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/RainbowJaveline/DSAJava26/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/RainbowJaveline/DSAJava26/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
