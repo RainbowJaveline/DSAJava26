@@ -18,7 +18,6 @@ class Solution {
             if(sum <= threshold){
                 if( mid < ans){
                     ans = mid;
-                }else{
                     high = mid - 1;
                 }
             }else{
