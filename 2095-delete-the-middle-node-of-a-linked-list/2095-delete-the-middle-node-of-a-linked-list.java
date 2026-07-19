@@ -15,21 +15,18 @@ class Solution {
         }
         ListNode fast = head;
         ListNode slow = head;
+        ListNode prev = null;
         int count = 0;
         while(fast != null && fast.next != null){
-            count++;
             fast = fast.next.next;
+            prev = slow;
             slow = slow.next;
         }
         if(slow.next == null){
             head.next = null;
             return head;
         }
-        ListNode temp = head;
-        for(int i = 1 ; i<count ; i++){
-            temp = temp.next;
-        }
-        temp.next = temp.next.next;
+        prev.next = prev.next.next;
         return head;
 
     }
