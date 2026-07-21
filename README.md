@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/RainbowJaveline/DSAJava26/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/RainbowJaveline/DSAJava26/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/RainbowJaveline/DSAJava26/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/RainbowJaveline/DSAJava26/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/RainbowJaveline/DSAJava26/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RainbowJaveline/DSAJava26/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/RainbowJaveline/DSAJava26/tree/master/0234-palindrome-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/RainbowJaveline/DSAJava26/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
