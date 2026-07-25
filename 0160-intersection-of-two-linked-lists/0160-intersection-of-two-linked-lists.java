@@ -11,22 +11,41 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+        //do not store the value store the entire node (ListNode)
         ListNode nodeA = headA;
         ListNode nodeB = headB;
-        HashMap<ListNode , Integer> mapA = new HashMap<>();
+        int countA = 0;
+        int countB = 0;
         while(nodeA != null){
-            mapA.put( nodeA , mapA.getOrDefault(mapA.get(nodeA.val),0)+1);
+            countA++;
             nodeA = nodeA.next;
         }
-
         while(nodeB != null){
-            if(mapA.containsKey(nodeB)){
-                return nodeB;
-            }
+            countB++;
             nodeB = nodeB.next;
         }
+        ListNode head1 = headA;
+        ListNode head2 = headB; 
+        int diff = Math.abs(countA - countB);
+        if(countA > countB){
+            while(diff != 0){
+                diff--;
+                head1 = head1.next;
+            }
+        }else{
+            while(diff != 0){
+                diff--;
+                head2 = head2.next;
+            }
+        }
 
+        while(head1!= null || head2!= null){
+            if(head1 == head2){
+                return head1;
+            }
+            head1 = head1.next;
+            head2 = head2.next;
+        }
         return null;
-
     }
 }
