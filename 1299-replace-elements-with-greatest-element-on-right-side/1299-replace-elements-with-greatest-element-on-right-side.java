@@ -1,4 +1,5 @@
 class Solution {
+    //my brute force solution 
     public int[] replaceElements(int[] arr) {
         int n = arr.length;
         // if(n == 1) return new int[]{-1};
