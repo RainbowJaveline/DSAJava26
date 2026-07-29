@@ -1,6 +1,6 @@
 class Solution {
     public int maxProduct(int n) {
-        int size = (int)Math.pow(10,6);
+        int size = (int)Math.pow(10,5);
         int[] arr = new int[size];
         int idx = 0;
         int count = 0;
