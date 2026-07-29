@@ -3,11 +3,9 @@ class Solution {
        // this intuition combines the Next Smaller element and Previous Smaller of equal element
        //so we also need two functions for this
        int total = 0;
-       int mod = (int)Math.pow(10,9) + 7;
-       int[] nextSmaller = new int[arr.length];
-       int[] previousSmaller = new int[arr.length];
-       nextSmaller = nextSmallerElement(arr);
-       previousSmaller = previousSmallerOrEqualElement(arr);
+       int mod = 1_000_000_007;
+       int[] nextSmaller = nextSmallerElement(arr);
+       int[] previousSmaller = previousSmallerOrEqualElement(arr);
        for(int i = 0 ; i< arr.length ; i++){
             long rightPossible = nextSmaller[i] - i;
             long leftPossible = i - previousSmaller[i];
