@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RainbowJaveline/DSAJava26/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/RainbowJaveline/DSAJava26/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/RainbowJaveline/DSAJava26/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/RainbowJaveline/DSAJava26/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/RainbowJaveline/DSAJava26/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/0088-merge-sorted-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RainbowJaveline/DSAJava26/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/RainbowJaveline/DSAJava26/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/RainbowJaveline/DSAJava26/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/RainbowJaveline/DSAJava26/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/0088-merge-sorted-array) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RainbowJaveline/DSAJava26/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/RainbowJaveline/DSAJava26/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RainbowJaveline/DSAJava26/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/RainbowJaveline/DSAJava26/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RainbowJaveline/DSAJava26/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/RainbowJaveline/DSAJava26/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/RainbowJaveline/DSAJava26/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RainbowJaveline/DSAJava26/tree/master/0496-next-greater-element-i) |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RainbowJaveline/DSAJava26/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/RainbowJaveline/DSAJava26/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RainbowJaveline/DSAJava26/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/0503-next-greater-element-ii) |
