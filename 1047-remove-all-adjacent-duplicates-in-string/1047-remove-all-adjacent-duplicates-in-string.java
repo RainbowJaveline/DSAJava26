@@ -3,15 +3,14 @@ class Solution {
         StringBuilder str = new StringBuilder();
         Stack<Character> stack = new Stack<>();
         for(int i = 0 ; i< s.length() ; i++){
-            boolean isDuplicate = false;
-            while(!stack.isEmpty() && stack.peek() == s.charAt(i)){
-                isDuplicate = true;
+           if(!stack.isEmpty() && stack.peek() == s.charAt(i)){
+            char dup = stack.pop();
+            while(!stack.isEmpty() && dup == stack.peek()){
                 stack.pop();
             }
-            if(!isDuplicate){
-                stack.push(s.charAt(i));
-            }
             continue;
+           }
+           stack.push(s.charAt(i));
         }
         while(!stack.isEmpty()){
             str.append(stack.pop());
