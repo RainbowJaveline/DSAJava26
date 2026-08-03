@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/RainbowJaveline/DSAJava26/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RainbowJaveline/DSAJava26/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/RainbowJaveline/DSAJava26/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1406-stone-game-iii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/RainbowJaveline/DSAJava26/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RainbowJaveline/DSAJava26/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RainbowJaveline/DSAJava26/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/RainbowJaveline/DSAJava26/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RainbowJaveline/DSAJava26/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/RainbowJaveline/DSAJava26/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/RainbowJaveline/DSAJava26/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RainbowJaveline/DSAJava26/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/RainbowJaveline/DSAJava26/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1406-stone-game-iii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1406-stone-game-iii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RainbowJaveline/DSAJava26/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
 |  |
@@ -328,4 +331,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/RainbowJaveline/DSAJava26/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RainbowJaveline/DSAJava26/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
