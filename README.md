@@ -347,4 +347,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/RainbowJaveline/DSAJava26/tree/master/0175-combine-two-tables) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/RainbowJaveline/DSAJava26/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/RainbowJaveline/DSAJava26/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/RainbowJaveline/DSAJava26/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
