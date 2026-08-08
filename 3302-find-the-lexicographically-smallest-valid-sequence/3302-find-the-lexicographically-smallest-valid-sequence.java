@@ -11,7 +11,6 @@ class Solution {
         }
         int skip = 0;
         j = 0;
-        int idx = 0;
         for(int i=0 ; i<word1.length() ; i++){
             if(j == word2.length()){
                 break;
@@ -20,14 +19,14 @@ class Solution {
                 if(word1.charAt(i) != word2.charAt(j)){
                     skip = 1;
                 }
-                answer[idx] = i;
+                answer[j] = i;
                 j++;
-                idx++;
+                
             }
         }
 
         if(j!= word2.length()){
-            return new int[]{};
+            return new int[0];
         }
         return answer;
 
