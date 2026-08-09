@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RainbowJaveline/DSAJava26/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/RainbowJaveline/DSAJava26/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/RainbowJaveline/DSAJava26/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/RainbowJaveline/DSAJava26/tree/master/0344-reverse-string) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RainbowJaveline/DSAJava26/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/RainbowJaveline/DSAJava26/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/RainbowJaveline/DSAJava26/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/RainbowJaveline/DSAJava26/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/RainbowJaveline/DSAJava26/tree/master/0128-longest-consecutive-sequence) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RainbowJaveline/DSAJava26/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/RainbowJaveline/DSAJava26/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/RainbowJaveline/DSAJava26/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/RainbowJaveline/DSAJava26/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/0189-rotate-array) |
