@@ -19,13 +19,14 @@ class Solution {
             return "";
         }
 
-        StringBuilder str = new StringBuilder();
+        // StringBuilder str = new StringBuilder();
         String ans = "";
         for(int i=0 ; i<=ptr ; i++){
-            // ans+= stack[i];
-            str.append(stack[i]);
+            ans+= stack[i];
+            // str.append(stack[i]);
         }
 
-        return str.toString();
+        // return str.toString();
+        return ans;
     }
 }
