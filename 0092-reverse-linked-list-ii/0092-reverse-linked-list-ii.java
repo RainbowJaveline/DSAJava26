@@ -55,13 +55,3 @@ class Solution {
 }
 
 }
-
-
-
-//        ListNode rightNext = rightNode.next;  
-
-        
-//         ListNode left2 = leftNode.next;
-//         left2.next = rightNext;
-//         leftNode.next = rightNode;
-//         return head;
