@@ -1,27 +1,47 @@
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-       HashMap<Integer , Integer> map = new HashMap<>();
-       List<Integer>[] bucket = new List[nums.length + 1]; 
-       for(int i : nums){
-        map.put(i , map.getOrDefault(i , 0)+1);
-       }
-       //traverse in the hashMap
-       for(int key : map.keySet()){
-        int freq = map.get(key);
-        if(bucket[freq] == null){
-            bucket[freq] = new ArrayList();
+        HashMap<Integer,Integer> map = new HashMap<>();
+        for(int i=0 ; i<nums.length ; i++){
+            map.put(nums[i] , map.getOrDefault(nums[i],0)+1);
         }
-        bucket[freq].add(key);
-       }
-       int[] res = new int[k];
-       int count = 0;
-       for(int pos = nums.length; pos>=0 && count < k ; pos--){
-        if(bucket[pos] != null){
-            for(Integer integer : bucket[pos]){
-                res[count++] = integer;
+
+        PriorityQueue<Pairs> pq = new PriorityQueue<>(
+            (a,b) -> {
+            if(a.num != b.num){
+                return a.freq - b.freq;
             }
+            return a.num-b.num;
+            }
+        );
+        
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+            Pairs curr = new Pairs(entry.getValue() , entry.getKey());
+            if(pq.size() < k){
+                pq.add(curr);
+                continue;
+            }
+
+            if(curr.freq < pq.peek().freq){
+                continue;
+            }
+            pq.poll();
+            pq.add(curr);
         }
-       }
-       return res;
+        
+        int[] answer = new int[k];
+        for(int i= 0 ; i<answer.length ; i++){
+            answer[i] = pq.peek().num;
+            pq.poll();
+        }
+
+        return answer;
+    }
+    class Pairs{
+        int freq;
+        int num;
+        Pairs(int freq , int num){
+            this.freq = freq;
+            this.num = num;
+        }
     }
 }
