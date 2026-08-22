@@ -7,7 +7,7 @@ class Solution {
 
         PriorityQueue<Pairs> pq = new PriorityQueue<>(
             (a,b) -> {
-            if(a.num != b.num){
+            if(a.freq != b.freq){
                 return a.freq - b.freq;
             }
             return a.num-b.num;
