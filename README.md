@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/RainbowJaveline/DSAJava26/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/RainbowJaveline/DSAJava26/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/RainbowJaveline/DSAJava26/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1927-sum-game](https://github.com/RainbowJaveline/DSAJava26/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RainbowJaveline/DSAJava26/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RainbowJaveline/DSAJava26/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/RainbowJaveline/DSAJava26/tree/master/2390-removing-stars-from-a-string) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/RainbowJaveline/DSAJava26/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/RainbowJaveline/DSAJava26/tree/master/0973-k-closest-points-to-origin) |
 | [1406-stone-game-iii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/RainbowJaveline/DSAJava26/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/RainbowJaveline/DSAJava26/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RainbowJaveline/DSAJava26/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/RainbowJaveline/DSAJava26/tree/master/0402-remove-k-digits) |
 | [0502-ipo](https://github.com/RainbowJaveline/DSAJava26/tree/master/0502-ipo) |
 | [1386-cinema-seat-allocation](https://github.com/RainbowJaveline/DSAJava26/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/RainbowJaveline/DSAJava26/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/RainbowJaveline/DSAJava26/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RainbowJaveline/DSAJava26/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RainbowJaveline/DSAJava26/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RainbowJaveline/DSAJava26/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/RainbowJaveline/DSAJava26/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/RainbowJaveline/DSAJava26/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
