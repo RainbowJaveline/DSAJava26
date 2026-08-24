@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RainbowJaveline/DSAJava26/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/RainbowJaveline/DSAJava26/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RainbowJaveline/DSAJava26/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1872-stone-game-viii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RainbowJaveline/DSAJava26/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/1991-find-the-middle-index-in-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RainbowJaveline/DSAJava26/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/RainbowJaveline/DSAJava26/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1004-max-consecutive-ones-iii) |
+| [1872-stone-game-viii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/1991-find-the-middle-index-in-array) |
 ## Math
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/RainbowJaveline/DSAJava26/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/RainbowJaveline/DSAJava26/tree/master/0973-k-closest-points-to-origin) |
 | [1406-stone-game-iii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RainbowJaveline/DSAJava26/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/RainbowJaveline/DSAJava26/tree/master/2029-stone-game-ix) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/RainbowJaveline/DSAJava26/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1406-stone-game-iii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RainbowJaveline/DSAJava26/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1872-stone-game-viii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RainbowJaveline/DSAJava26/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Queue
 |  |
@@ -423,17 +427,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RainbowJaveline/DSAJava26/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RainbowJaveline/DSAJava26/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RainbowJaveline/DSAJava26/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/RainbowJaveline/DSAJava26/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/RainbowJaveline/DSAJava26/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/RainbowJaveline/DSAJava26/tree/master/2029-stone-game-ix) |
 ## Database
 |  |
