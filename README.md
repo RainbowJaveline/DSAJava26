@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/RainbowJaveline/DSAJava26/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/RainbowJaveline/DSAJava26/tree/master/0443-string-compression) |
+| [0658-find-k-closest-elements](https://github.com/RainbowJaveline/DSAJava26/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/RainbowJaveline/DSAJava26/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RainbowJaveline/DSAJava26/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RainbowJaveline/DSAJava26/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/RainbowJaveline/DSAJava26/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/RainbowJaveline/DSAJava26/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/RainbowJaveline/DSAJava26/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/RainbowJaveline/DSAJava26/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/RainbowJaveline/DSAJava26/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/RainbowJaveline/DSAJava26/tree/master/0735-asteroid-collision) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RainbowJaveline/DSAJava26/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RainbowJaveline/DSAJava26/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0658-find-k-closest-elements](https://github.com/RainbowJaveline/DSAJava26/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/RainbowJaveline/DSAJava26/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RainbowJaveline/DSAJava26/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/RainbowJaveline/DSAJava26/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0502-ipo](https://github.com/RainbowJaveline/DSAJava26/tree/master/0502-ipo) |
+| [0658-find-k-closest-elements](https://github.com/RainbowJaveline/DSAJava26/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/RainbowJaveline/DSAJava26/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/RainbowJaveline/DSAJava26/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/RainbowJaveline/DSAJava26/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RainbowJaveline/DSAJava26/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/RainbowJaveline/DSAJava26/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/RainbowJaveline/DSAJava26/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RainbowJaveline/DSAJava26/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RainbowJaveline/DSAJava26/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -369,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/RainbowJaveline/DSAJava26/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/RainbowJaveline/DSAJava26/tree/master/0502-ipo) |
+| [0658-find-k-closest-elements](https://github.com/RainbowJaveline/DSAJava26/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/RainbowJaveline/DSAJava26/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/RainbowJaveline/DSAJava26/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
