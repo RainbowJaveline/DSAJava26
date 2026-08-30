@@ -11,11 +11,11 @@ class Solution {
             if(i > 0 && temp[i] == temp[i-1]){
                 continue;
             }
-            map.put(temp[i] , idx++);
+            map.put(temp[i] , ++idx);
         }
         int[] ans = new int[temp.length];
         for(int i= 0 ; i<arr.length ; i++){
-            ans[i] = map.get(arr[i])+1;
+            ans[i] = map.get(arr[i]);
         }
         return ans;
     }
