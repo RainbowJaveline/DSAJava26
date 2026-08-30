@@ -1,6 +1,7 @@
 class Solution {
     public static int minimumDeletions(int[] nums) {
         if(nums.length == 1) return 1;
+        int n = nums.length;
         int maxIdx = 0;
         int minIdx = 0;
         for (int i = 0; i < nums.length; i++) {
@@ -11,23 +12,19 @@ class Solution {
                 minIdx = i;
             }
         }
-        int maxClose = nums.length - maxIdx;
-        int minClose = nums.length - minIdx;
-        int FromEnd = 0;
-        int FromStart = 0;
+        // int maxClose = nums.length - maxIdx;
+        // int minClose = nums.length - minIdx;
+        // int FromEnd = 0;
+        // int FromStart = 0;
         int currMin1 = 0;
         int currMin2 = 0;
         if(maxIdx < minIdx){
-            FromEnd = maxClose;
-            FromStart = minIdx+1;
-            currMin1 = Math.min(FromEnd,FromStart);
-            currMin1 = Math.min(currMin1 ,maxIdx + minClose + 1);
+            currMin1 = Math.min(n - maxIdx,minIdx+1);
+            currMin1 = Math.min(currMin1 ,maxIdx + n - minIdx + 1);
             return currMin1;
         }else{
-            FromEnd = minClose;
-            FromStart = maxIdx+1;
-            currMin2 = Math.min(FromEnd,FromStart);
-            currMin2 = Math.min(currMin2 ,minIdx + maxClose + 1);
+            currMin2 = Math.min(n - minIdx,maxIdx+1);
+            currMin2 = Math.min(currMin2 ,minIdx + n - maxIdx + 1);
             return currMin2;
         }
         // boolean delFromL = false;
