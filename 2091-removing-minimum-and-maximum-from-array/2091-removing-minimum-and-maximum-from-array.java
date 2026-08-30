@@ -11,10 +11,6 @@ class Solution {
                 minIdx = i;
             }
         }
-
-        if((maxIdx == 0 && minIdx == nums.length-1) || (maxIdx == nums.length-1 && minIdx == 0)){
-            return 2;
-        }
         int maxClose = nums.length - maxIdx;
         int minClose = nums.length - minIdx;
         int FromEnd = 0;
