@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/RainbowJaveline/DSAJava26/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RainbowJaveline/DSAJava26/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/RainbowJaveline/DSAJava26/tree/master/1472-design-browser-history) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RainbowJaveline/DSAJava26/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RainbowJaveline/DSAJava26/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
