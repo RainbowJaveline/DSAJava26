@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/RainbowJaveline/DSAJava26/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/RainbowJaveline/DSAJava26/tree/master/0443-string-compression) |
 | [0692-top-k-frequent-words](https://github.com/RainbowJaveline/DSAJava26/tree/master/0692-top-k-frequent-words) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RainbowJaveline/DSAJava26/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RainbowJaveline/DSAJava26/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/RainbowJaveline/DSAJava26/tree/master/1108-defanging-an-ip-address) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/RainbowJaveline/DSAJava26/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RainbowJaveline/DSAJava26/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/RainbowJaveline/DSAJava26/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RainbowJaveline/DSAJava26/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RainbowJaveline/DSAJava26/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1472-design-browser-history](https://github.com/RainbowJaveline/DSAJava26/tree/master/1472-design-browser-history) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RainbowJaveline/DSAJava26/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/RainbowJaveline/DSAJava26/tree/master/0402-remove-k-digits) |
 | [0502-ipo](https://github.com/RainbowJaveline/DSAJava26/tree/master/0502-ipo) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RainbowJaveline/DSAJava26/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/RainbowJaveline/DSAJava26/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/RainbowJaveline/DSAJava26/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/RainbowJaveline/DSAJava26/tree/master/2029-stone-game-ix) |
@@ -579,4 +582,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/RainbowJaveline/DSAJava26/tree/master/0973-k-closest-points-to-origin) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RainbowJaveline/DSAJava26/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
