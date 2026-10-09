@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/RainbowJaveline/DSAJava26/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/RainbowJaveline/DSAJava26/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/RainbowJaveline/DSAJava26/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/RainbowJaveline/DSAJava26/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/RainbowJaveline/DSAJava26/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RainbowJaveline/DSAJava26/tree/master/0084-largest-rectangle-in-histogram) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/RainbowJaveline/DSAJava26/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/RainbowJaveline/DSAJava26/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/RainbowJaveline/DSAJava26/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/RainbowJaveline/DSAJava26/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/RainbowJaveline/DSAJava26/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/0189-rotate-array) |
@@ -595,4 +597,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RainbowJaveline/DSAJava26/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RainbowJaveline/DSAJava26/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/RainbowJaveline/DSAJava26/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
