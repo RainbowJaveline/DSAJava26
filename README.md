@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/RainbowJaveline/DSAJava26/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/RainbowJaveline/DSAJava26/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/RainbowJaveline/DSAJava26/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/RainbowJaveline/DSAJava26/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/RainbowJaveline/DSAJava26/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RainbowJaveline/DSAJava26/tree/master/0084-largest-rectangle-in-histogram) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RainbowJaveline/DSAJava26/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/RainbowJaveline/DSAJava26/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/RainbowJaveline/DSAJava26/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RainbowJaveline/DSAJava26/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -601,4 +603,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RainbowJaveline/DSAJava26/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/RainbowJaveline/DSAJava26/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
