@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/RainbowJaveline/DSAJava26/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/RainbowJaveline/DSAJava26/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/RainbowJaveline/DSAJava26/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/RainbowJaveline/DSAJava26/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/RainbowJaveline/DSAJava26/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/RainbowJaveline/DSAJava26/tree/master/0692-top-k-frequent-words) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/RainbowJaveline/DSAJava26/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/RainbowJaveline/DSAJava26/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/RainbowJaveline/DSAJava26/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/RainbowJaveline/DSAJava26/tree/master/0692-top-k-frequent-words) |
 | [1331-rank-transform-of-an-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RainbowJaveline/DSAJava26/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RainbowJaveline/DSAJava26/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/RainbowJaveline/DSAJava26/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RainbowJaveline/DSAJava26/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RainbowJaveline/DSAJava26/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
