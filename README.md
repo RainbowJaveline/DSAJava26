@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/RainbowJaveline/DSAJava26/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/RainbowJaveline/DSAJava26/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/RainbowJaveline/DSAJava26/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/RainbowJaveline/DSAJava26/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/RainbowJaveline/DSAJava26/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/RainbowJaveline/DSAJava26/tree/master/0973-k-closest-points-to-origin) |
 | [1406-stone-game-iii](https://github.com/RainbowJaveline/DSAJava26/tree/master/1406-stone-game-iii) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RainbowJaveline/DSAJava26/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/RainbowJaveline/DSAJava26/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/RainbowJaveline/DSAJava26/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/RainbowJaveline/DSAJava26/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/RainbowJaveline/DSAJava26/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RainbowJaveline/DSAJava26/tree/master/0918-maximum-sum-circular-subarray) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/RainbowJaveline/DSAJava26/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RainbowJaveline/DSAJava26/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/RainbowJaveline/DSAJava26/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/RainbowJaveline/DSAJava26/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RainbowJaveline/DSAJava26/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
@@ -620,4 +623,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/RainbowJaveline/DSAJava26/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RainbowJaveline/DSAJava26/tree/master/0054-spiral-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/RainbowJaveline/DSAJava26/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
