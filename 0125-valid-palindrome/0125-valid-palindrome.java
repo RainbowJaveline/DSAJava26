@@ -1,24 +1,21 @@
 class Solution {
     public boolean isPalindrome(String s) {
-         String str = s.toLowerCase().replaceAll("\\s" , ""); // important step it is
-        System.out.println(str);
-        int i = 0;
-        int j = str.length()-1;
-        while(i<j){
-            boolean c1 = Character.isLetterOrDigit(str.charAt(i));
-            boolean c2 = Character.isLetterOrDigit(str.charAt(j));
-            if(c1 && c2 && str.charAt(i) == str.charAt(j)){
-                i++;
-                j--;
-            } else if (!c1) {
-                i++;
-            } else if (!c2){
-                j--;
-            }else{
-                return false;
-            }
+        String newString = s.replaceAll("[^a-zA-Z0-9]","").toLowerCase();
+        if(newString.length()==0 || newString.length()==1){
+            return true;
         }
-        return true;
+        boolean answer = isPalindromeRecursion(newString,0,newString.length()-1);
+        return answer;
+    }
 
+    public boolean isPalindromeRecursion(String string , int low , int high){
+        int len = high - low + 1;
+        if(len==0 || len==1){
+            return true;
+        }
+        if(string.charAt(low) != string.charAt(high)){
+            return false;
+        }
+        return isPalindromeRecursion(string,low+1,high-1);
     }
 }
