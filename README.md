@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RainbowJaveline/DSAJava26/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/RainbowJaveline/DSAJava26/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RainbowJaveline/DSAJava26/tree/master/0162-find-peak-element) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/RainbowJaveline/DSAJava26/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/RainbowJaveline/DSAJava26/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/RainbowJaveline/DSAJava26/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RainbowJaveline/DSAJava26/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/RainbowJaveline/DSAJava26/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/RainbowJaveline/DSAJava26/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/0090-subsets-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Segment Tree
 |  |
