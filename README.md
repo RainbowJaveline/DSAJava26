@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RainbowJaveline/DSAJava26/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RainbowJaveline/DSAJava26/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/RainbowJaveline/DSAJava26/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/RainbowJaveline/DSAJava26/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RainbowJaveline/DSAJava26/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/0088-merge-sorted-array) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/RainbowJaveline/DSAJava26/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/RainbowJaveline/DSAJava26/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/RainbowJaveline/DSAJava26/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RainbowJaveline/DSAJava26/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RainbowJaveline/DSAJava26/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/RainbowJaveline/DSAJava26/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Segment Tree
 |  |
