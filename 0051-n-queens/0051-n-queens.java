@@ -39,19 +39,25 @@ class Solution {
     }
 
     public boolean isSafe(String[][] board , int row , int col , int n){
-        //horizontal
-        for(int j= 0  ; j<n ; j++){
-            if(board[row][j] == "Q"){
-                return false;
-            }
+        // 1. Vertical check (only need to check rows ABOVE the current row)
+    for (int i = row - 1; i >= 0; i--) {
+        if (board[i][col].equals("Q")) {
+            return false;
         }
+    }
+        // //horizontal
+        // for(int j= 0  ; j<n ; j++){
+        //     if(board[row][j] == "Q"){
+        //         return false;
+        //     }
+        // }
 
-        //vertical
-        for(int i=0  ; i<n ; i++){
-            if(board[i][col] == "Q"){
-                return false;
-            }
-        }
+        // //vertical
+        // for(int i=0  ; i<n ; i++){
+        //     if(board[i][col] == "Q"){
+        //         return false;
+        //     }
+        // }
          // 2. Upper-Left Diagonal (decrement i and j TOGETHER)
     for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
         if (board[i][j].equals("Q")) {
