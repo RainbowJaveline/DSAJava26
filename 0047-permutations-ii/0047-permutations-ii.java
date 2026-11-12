@@ -25,9 +25,7 @@ class Solution {
         }
 
         for(int i = idx ; i<nums.length ; i++){
-            if(nums[i] != nums[idx] && idx != i){
-                swap(nums , idx , i);
-            }
+            swap(nums , idx , i);
             helper(answer , nums , idx+1);
             swap(nums , idx , i);
         }
