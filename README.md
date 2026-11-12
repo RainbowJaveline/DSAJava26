@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/RainbowJaveline/DSAJava26/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/RainbowJaveline/DSAJava26/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/RainbowJaveline/DSAJava26/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/RainbowJaveline/DSAJava26/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/RainbowJaveline/DSAJava26/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/RainbowJaveline/DSAJava26/tree/master/0078-subsets) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/RainbowJaveline/DSAJava26/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/RainbowJaveline/DSAJava26/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/RainbowJaveline/DSAJava26/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/RainbowJaveline/DSAJava26/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/0090-subsets-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -642,4 +644,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/RainbowJaveline/DSAJava26/tree/master/0509-fibonacci-number) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/RainbowJaveline/DSAJava26/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
