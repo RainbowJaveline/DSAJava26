@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/RainbowJaveline/DSAJava26/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/RainbowJaveline/DSAJava26/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/RainbowJaveline/DSAJava26/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/RainbowJaveline/DSAJava26/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/RainbowJaveline/DSAJava26/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RainbowJaveline/DSAJava26/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/RainbowJaveline/DSAJava26/tree/master/0383-ransom-note) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/RainbowJaveline/DSAJava26/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RainbowJaveline/DSAJava26/tree/master/0042-trapping-rain-water) |
+| [0131-palindrome-partitioning](https://github.com/RainbowJaveline/DSAJava26/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/RainbowJaveline/DSAJava26/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/RainbowJaveline/DSAJava26/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/RainbowJaveline/DSAJava26/tree/master/0877-stone-game) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/RainbowJaveline/DSAJava26/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/RainbowJaveline/DSAJava26/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/RainbowJaveline/DSAJava26/tree/master/0131-palindrome-partitioning) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Segment Tree
 |  |
