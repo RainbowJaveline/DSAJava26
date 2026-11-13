@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/RainbowJaveline/DSAJava26/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/RainbowJaveline/DSAJava26/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/RainbowJaveline/DSAJava26/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/RainbowJaveline/DSAJava26/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/RainbowJaveline/DSAJava26/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RainbowJaveline/DSAJava26/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/RainbowJaveline/DSAJava26/tree/master/0383-ransom-note) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/RainbowJaveline/DSAJava26/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/RainbowJaveline/DSAJava26/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RainbowJaveline/DSAJava26/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/RainbowJaveline/DSAJava26/tree/master/0169-majority-element) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/RainbowJaveline/DSAJava26/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/RainbowJaveline/DSAJava26/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/RainbowJaveline/DSAJava26/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/RainbowJaveline/DSAJava26/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/RainbowJaveline/DSAJava26/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/RainbowJaveline/DSAJava26/tree/master/0146-lru-cache) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/RainbowJaveline/DSAJava26/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RainbowJaveline/DSAJava26/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/RainbowJaveline/DSAJava26/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/RainbowJaveline/DSAJava26/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/RainbowJaveline/DSAJava26/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/RainbowJaveline/DSAJava26/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/RainbowJaveline/DSAJava26/tree/master/0877-stone-game) |
@@ -625,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/RainbowJaveline/DSAJava26/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/RainbowJaveline/DSAJava26/tree/master/0692-top-k-frequent-words) |
 ## Geometry
 |  |
@@ -648,9 +653,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/RainbowJaveline/DSAJava26/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/RainbowJaveline/DSAJava26/tree/master/0509-fibonacci-number) |
 ## Algorithm X
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/RainbowJaveline/DSAJava26/tree/master/0051-n-queens) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/RainbowJaveline/DSAJava26/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
