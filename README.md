@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RainbowJaveline/DSAJava26/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RainbowJaveline/DSAJava26/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/RainbowJaveline/DSAJava26/tree/master/0076-minimum-window-substring) |
+| [0093-restore-ip-addresses](https://github.com/RainbowJaveline/DSAJava26/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/RainbowJaveline/DSAJava26/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/RainbowJaveline/DSAJava26/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/RainbowJaveline/DSAJava26/tree/master/0344-reverse-string) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/RainbowJaveline/DSAJava26/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/RainbowJaveline/DSAJava26/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/RainbowJaveline/DSAJava26/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/RainbowJaveline/DSAJava26/tree/master/0131-palindrome-partitioning) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RainbowJaveline/DSAJava26/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Segment Tree
