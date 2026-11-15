@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RainbowJaveline/DSAJava26/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/RainbowJaveline/DSAJava26/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/RainbowJaveline/DSAJava26/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/RainbowJaveline/DSAJava26/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/RainbowJaveline/DSAJava26/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/RainbowJaveline/DSAJava26/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/RainbowJaveline/DSAJava26/tree/master/0258-add-digits) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/RainbowJaveline/DSAJava26/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RainbowJaveline/DSAJava26/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/RainbowJaveline/DSAJava26/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/RainbowJaveline/DSAJava26/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/RainbowJaveline/DSAJava26/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/RainbowJaveline/DSAJava26/tree/master/0486-predict-the-winner) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/RainbowJaveline/DSAJava26/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/RainbowJaveline/DSAJava26/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/RainbowJaveline/DSAJava26/tree/master/0509-fibonacci-number) |
 ## Algorithm X
